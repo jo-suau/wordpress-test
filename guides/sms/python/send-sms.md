@@ -1,4 +1,4 @@
-# How to send SMS with Python and Infobip (test)
+# How to send SMS with Python and Infobip (plugin test)
 
 ![Python](https://img.shields.io/pypi/pyversions/infobip-api-python-sdk)
 
